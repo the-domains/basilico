@@ -1,19 +1,4 @@
-name: Basilico
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.7911479729227722
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#E0FBFC'
@@ -25,4 +10,20 @@ color:
   lightness: 0.9621034795418382
   saturation: 0.5609141341410577
   rhythmicContrast: 0.8330813799984753
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Basilico
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: We bas!
 purpose: []
